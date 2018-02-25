@@ -13,6 +13,23 @@ h1{
 }
 
 nav{
-  color: white;
+  color: white !important;
   font-size: 18px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h2 .banner{
+  color: white;
+}
+
+.banner{
+  background-image: url(../images/the-flatiron-building.png);
 }
