@@ -33,3 +33,14 @@ h2 .banner{
 .banner{
   background-image: url(../images/the-flatiron-building.png);
 }
+
+footer{
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: white;
+}
+
+#botnav{
+  font-size: 18px;
+}
